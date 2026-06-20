@@ -23,4 +23,4 @@ PHP MVC civic collaboration platform — citizen proposals, project management, 
 
 ## Contact
 
-mohamedrayen.ourabi@esprit.tn
+joujoumimou870@gmail.com
